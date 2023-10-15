@@ -39,6 +39,10 @@ body {
   main {
     padding: 20px;
     text-align: center;
+    border-radius: 33px;
+    background: linear-gradient(145deg, #dfddd1, #fffff8);
+    box-shadow:  20px 20px 39px #d0cec3,
+                 -20px -20px 39px #ffffff;
   }
   
   section {
