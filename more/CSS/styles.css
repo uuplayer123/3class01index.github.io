@@ -60,3 +60,31 @@ body {
     padding: 10px;
     text-align: center;
   }
+
+  form{
+    text-align: center;
+  }
+  form .text {
+  display: inline-block;
+  border: 0;
+  width: 900px; /*260px*/
+  height: 70px; /*26px*/
+  font-size: 20px;/*14px*/
+  outline: none;
+  border: 2px solid #01af63;
+  border-radius: 20px;
+  }
+
+  form .search {
+
+  width: 120px; /*90px*/
+  height: 73px; /*38px*/
+  border: 2px solid #01af63;
+  outline: none;
+  cursor: pointer;
+  /*   cursor: pointer;   鼠标悬停或点击时button时鼠标变成其他图标  */
+  text-align: center;
+  background-color: #01af63;
+  color: #FFFFFF;
+  border-radius: 20px;
+  }
